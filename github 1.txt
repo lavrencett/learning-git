@@ -1,6 +1,6 @@
 this is the first line
 linne 2
-line 3
+Adding the third commit 
 
 Hey Students this is a Start of DeVops and long way to go 
 
